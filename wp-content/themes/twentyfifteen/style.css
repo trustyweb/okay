@@ -5729,3 +5729,25 @@ p > video {
 		padding: 3.84615% 0;
 	}
 }
+.entry-caption,
+.type-attachment .entry-title,
+.author-description,
+.widget,
+.entry-content,
+.entry-summary,
+.page-content,
+.comment-content,
+code,
+kbd,
+tt,
+var,
+samp,
+pre,
+blockquote,
+q {
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    word-wrap: none;
+}
