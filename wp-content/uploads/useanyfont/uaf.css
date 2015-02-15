@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'open';
+				font-style: normal;
+				src: url('http://vprd.xyz/wp-content/uploads/useanyfont/150129082424OpenSans-Regular.eot');
+				src: local('open'), url('http://vprd.xyz/wp-content/uploads/useanyfont/150129082424OpenSans-Regular.eot') format('embedded-opentype'), url('http://vprd.xyz/wp-content/uploads/useanyfont/150129082424OpenSans-Regular.woff') format('woff');
+			}
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'open' !important;
+				}
+		
